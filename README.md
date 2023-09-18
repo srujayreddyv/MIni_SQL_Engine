@@ -28,4 +28,4 @@ Inside source directory, run `python mini_sql.py "<sql_query>"`
 - Table join and aliasing
   - `select * from table1, table2`
   - `select a, t1.b, c, t2.d from table1 as t1, table2 as t2 where t1.b = t2.b and t2.d >= 0`
-  - 
+  
